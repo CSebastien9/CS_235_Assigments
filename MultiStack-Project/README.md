@@ -1,7 +1,7 @@
 ****************************************
-Author:		   C.F. Sebastien Dalencourt
+Author:	       C.F. Sebastien Dalencourt
 Class:	   Software Analysis & Design II
-Professor:			     Sadat Chowdhury
+Professor:	         Sadat Chowdhury
 Date Created:                 11/22/2015
 ****************************************
 
@@ -33,7 +33,7 @@ Step2:
 IMPORANT: Change #include "MultiStack.cpp" to "#include "MultiStack.hpp"
 
 
-IV. Input/Files Files:
+IV. Input/Output Files:
 - Input:  n/a
 - Output: n/a
 
