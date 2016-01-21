@@ -31,7 +31,7 @@ Step2:
 IMPORANT: Change #include "StringMap.cpp" to "#include "StringMap.hpp"
 
 
-IV. Input/Files Files:
+IV. Input/Output Files:
 - Input:  n/a
 - Output: n/a
 
